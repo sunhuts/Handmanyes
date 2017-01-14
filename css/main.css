@@ -1562,13 +1562,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #8e70e9 url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
+				background: #8e70e9 url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -2113,7 +2113,7 @@
 				}
 
 				#intro > .style2 {
-					font-size: 2.75em;
+					font-size: 2.25em;
 					letter-spacing: 0.075em;
 					line-height: 1.35em;
 					padding: 1em 0 1em 0;
